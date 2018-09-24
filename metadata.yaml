@@ -1,5 +1,5 @@
 _repo: Old-Clinkers-A-Story-of-the-New-York-Fire-Department_56439
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Justice, Martin
@@ -8,12 +8,17 @@ contributor:
     - Justice, B. Martin
     gutenberg_agent_id: '37259'
     url: http://www.gutenberg.org/2009/agents/37259
+covers:
+- cover_type: archival
+  image_path: 56439-h/images/cover.jpg
 creator:
   author:
     agent_name: O'Higgins, Harvey J.
     gutenberg_agent_id: '48843'
     url: http://www.gutenberg.org/2009/agents/48843
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56439#Old-Clinkers-A-Story-of-the-New-York-Fire-Department
 gutenberg_issued: '2018-01-26'
 gutenberg_type: Text
 identifiers:
